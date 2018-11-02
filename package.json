@@ -1,0 +1,25 @@
+{
+  "name": "iu-ts",
+  "version": "1.0.0",
+  "description": "Immutable update of deeply nested objects - typescript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/attack-monkey/iu-ts.git"
+  },
+  "keywords": [
+    "immutable",
+    "update",
+    "typescript",
+    "json"
+  ],
+  "author": "attack monkey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/attack-monkey/iu-ts/issues"
+  },
+  "homepage": "https://github.com/attack-monkey/iu-ts#readme"
+}
